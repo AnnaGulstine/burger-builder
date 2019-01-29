@@ -1,0 +1,9 @@
+.burger {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  text-align: center;
+  overflow: scroll;
+  font-weight: 900;
+  font-size: 1.2rem;
+}
